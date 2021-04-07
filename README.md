@@ -1,4 +1,4 @@
-👋 Hello world. I'm Bruno Ramos.
+<h1>👋 Hello world. I'm Bruno Ramos. </h1>
 
 I worked as a web developer between 2013 and 2014 before migrating to digital marketing. I am currently back in the world of programming. I am constantly evolving and I am currently studying to become a full stack developer.
 
