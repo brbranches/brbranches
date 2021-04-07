@@ -6,15 +6,14 @@
 
 - 💻 Java Java Full Stack Student - JDev by professor Alex Egídio;
 
-- ✅ I have knowledge in Java, Html and Css.
+- ✅ I have knowledge in Java, POO, Html and Css.
 
 - 🌱 I am currently learning JSP, JDBC, PostgreSql, Github and others.
 
 - 📫 How to contact me **brunojramosr@gmail.com**
 
-       • https://www.linkedin.com/in/branches/
-       
-<p align="left"> <a href="https://www.linkedin.com/in/brbranches/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brbranches" height="30" width="40" /></a>       
+
+<p align="center"> <a href="https://www.linkedin.com/in/brbranches/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brbranches" height="30" width="40" /></a>       
 <a href="https://www.facebook.com/brbranches/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="brbranches" height="30" width="40" /></a>
 <a href="https://www.instagram.com/br.branches/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="br.branches" height="30" width="40" /></a>
 </p>
