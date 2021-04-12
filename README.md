@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hello world. I'm Bruno Ramos. </h1>
+<h1 align="center">👋 Olá mundo. Sou o Bruno Ramos. </h1>
 
-<h4 align="center">I worked as a web developer between 2013 and 2014 before migrating to digital marketing. I am currently back in the world of programming. I am constantly evolving and I am currently studying to become a full stack developer.</h4>
+<h4 align="center">Trabalhei como desenvolvedor web entre 2013 e 2014 antes de migrar para o marketing digital. Atualmente estou de volta ao mundo da programação. Estou em constante evolução e atualmente estou estudando para me tornar um desenvolvedor full stack..</h4>
 
-- 🎓 I have a degree in Information Systems;
+- 🎓 Sou formado em Sistemas de Informação;
 
-- 💻 Java Java Full Stack Student - JDev by professor Alex Egídio;
+- 💻 Aluno do curso Java Full Stack da JDev, ministrado pelo professor Alex Egídio;
 
-- ✅ I have knowledge in Java, POO, Html and Css.
+- ✅ Tenho conhecimento em Java, POO, Html and Css.
 
-- 🌱 I am currently learning JSP, JDBC, PostgreSql, Github and others.
+- 🌱 Atualmente estou aprendendo JSP, JDBC, PostgreSql, Github entre outros.
 
-- 📫 How to contact me **brunojramosr@gmail.com**
+- 📫 Entre em contato comigo pelo email: **brunojramosr@gmail.com**, ou pelas redes sociais abaixo.
 
 
 <p align="center"> <a href="https://www.linkedin.com/in/brbranches/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brbranches" height="30" width="40" /></a>       
