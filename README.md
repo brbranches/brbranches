@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá mundo. Sou o Bruno Ramos. </h1>
 
-<h4 align="center">Trabalhei como desenvolvedor web entre 2013 e 2014 antes de migrar para o marketing digital. Atualmente estou de volta ao mundo da programação. Estou em constante evolução e atualmente estou estudando para me tornar um desenvolvedor full stack..</h4>
+<h4 align="center">Trabalhei como desenvolvedor web entre 2013 e 2014 antes de migrar para o marketing digital. Atualmente estou de volta ao mundo da programação. Atualmente estudo para me tornar um desenvolvedor full stack..</h4>
 
 - 🎓 Sou formado em Sistemas de Informação;
 
