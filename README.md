@@ -5,10 +5,11 @@
 - 🎓 Sou formado em Sistemas de Informação;
 
 - 💻 Aluno do curso Java Full Stack da JDev, ministrado pelo professor Alex Egídio;
+- 💻 Aluno do Bootcamp Spring React Devsuperior, ministrado pelo professor Nélio Alves;
 
-- ✅ Tenho conhecimento em Java, POO, Html and Css.
+- ✅ Tenho conhecimento em Java, POO, Html e Css.
 
-- 🌱 Atualmente estou aprendendo JSP, JDBC, PostgreSql, Github entre outros.
+- 🌱 Atualmente estou estudando Java, Spring Boot, Maven, Padrão DTO, Postman, Spring Data JPA, entre outras. 
 
 - 📫 Entre em contato comigo pelo email: **brunojramosr@gmail.com**, ou pelas redes sociais abaixo.
 
