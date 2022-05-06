@@ -1,13 +1,14 @@
-<h1 align="center">👋 Olá mundo. Sou o Bruno Ramos. </h1>
+<h1 align="center">👋 Olá, sou o Bruno Ramos. </h1>
 
-<h4 align="center">Trabalhei como desenvolvedor web entre 2013 e 2014 antes de migrar para o marketing digital. Atualmente estou de volta ao mundo da programação no momento estudo para me tornar um desenvolvedor full stack..</h4>
+<h4 align="center">Trabalhei como desenvolvedor web entre 2013 e 2014 antes de migrar para o marketing digital. Atualmente estou de volta ao mundo da programação e no momento estudo para me tornar um desenvolvedor full stack..</h4>
 
 - 🎓 Sou formado em Sistemas de Informação;
 
+- 💻 Aluno Alura, com foco na formação como Desenvolvedor Java;
 - 💻 Aluno do curso Java Full Stack da JDev, ministrado pelo professor Alex Egídio;
 - 💻 Aluno do Bootcamp Spring React Devsuperior, ministrado pelo professor Nélio Alves;
 
-- ✅ Tenho conhecimento em Java, POO, Html e Css.
+- ✅ Tenho conhecimento em Java, POO, Sping, Html e Css.
 
 - 🌱 Atualmente estou estudando Java, Spring Boot, Maven, Padrão DTO, Postman, Spring Data JPA, entre outras. 
 
